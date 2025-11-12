@@ -1,2 +1,3 @@
-# Hello-World
-A simple starter repository for practicing Git commands and core version control workflow
+# Hello World
+
+This repo practices the core Git workflow.
